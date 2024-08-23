@@ -1,3 +1,3 @@
-I am Luong
-I am tewnty years old
+I am Luong,
+I am twenty years old,
 I am a student
